@@ -23,6 +23,7 @@ library
                      , AdventOfCode.Day3
                      , AdventOfCode.Day4
                      , AdventOfCode.Day5
+                     , AdventOfCode.Day6
   -- other-extensions:
   build-depends:       base >=4.13 && <4.14
                      , containers
